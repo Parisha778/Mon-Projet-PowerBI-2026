@@ -13,3 +13,4 @@ Pour ouvrir ce projet sur un nouvel ordinateur :
 2. Télécharger le fichier `europe_sales_data.xlsx`.
 3. Ouvrir le fichier `.pbix` avec Power BI Desktop.
 4. Si les données ne s'affichent pas, aller dans **Paramètres de la source de données** et pointer vers le fichier Excel téléchargé.
+<img width="743" height="421" alt="dashboard_visuel" src="https://github.com/user-attachments/assets/cf34b6f4-a038-41ee-aaa8-bda27cf305df" />
